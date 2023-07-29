@@ -1,0 +1,272 @@
+(A) FORMULIR PELAPORAN PENCATATAN SIPIL DI DALAM WILAYAH NKRI
+Provinsi : Jawa Timur
+Kabupaten/kota : Malang
+(A1) Kecamatan :
+(A2) Desa/Kelurahan: 
+(A3) Kode Wilayah:
+
+(B) Formulir
+(B1) Jenis Pelaporan Pencatatan Sipil
+[] Kelahiran
+[] Lahir Mati
+[] Perkawinan
+[] Pembatalan Perkawinan
+[] Perceraian
+[] Pembatalan Perceraian
+[] Kematian
+[] Pengankatan Anak
+[] Pengakuan Anak
+[] Pengesahan Anak
+[] Perubahan Nama
+[] Perubahan Status Kewarganegaraan
+[] Pencatatan Peristiwa Penting Lainnya
+[] Pembetulan Akta
+[] Pembatalan Akta 
+[] Pelaporan Pencatatan Sipil dari Luar Wilayah
+
+(C) DATA PELAPOR
+(C1) Nama
+(C2) Nik
+(C3) Nomor Dokumen Perjalanan
+(C4) Nomor Kartu Keluarga
+(C5) Kewarganegaraan
+
+(D) DATA SUBJEK AKTA KESATU
+(D1) Nama
+(D2) NIK
+(D3) Nomor Dokumen Perjalanan
+(D4) Nomor Kartu Keluarga
+(D5) Kewarganegaraan
+
+(E) DATA SUBJEK AKTA KEDUA (JIKA ADA)
+(E1) Nama
+(E2) NIK
+(E3) Nomor Dokumen Perjalanan
+(E4) Nomor Kartu Keluarga
+(E5) Kewarganegaraan
+
+(F) DATA SAKSI I
+(F1) Nama 
+(F2) NIK
+(F3) Nomor Dokumen Perjalanan
+(F4) Nomor Kartu Keluarga
+(F5) Kewarganegaraan
+
+(G) DATA SAKSI II
+(G1) Nama
+(G2) NIK
+(G3) Nomor Dokumen Perjalanan
+(G4) Nomor Kartu Keluarga
+(G5) Kewarganegaraan
+
+(H) DATA ORANG TUA ** (hanya disi untuk keperluan pencatatan kelahiran, lahir mati dan kematian)
+(H1) Nama Ayah
+(H2) NIK Ayah
+(H3) Tempat Lahir Ayah
+(H4) Tanggal Lahir Ayah
+(H5) Kewarganegaraan
+(H6) Nama Ibu
+(H7) NIK Ayah
+(H8) Tempat Lahir Ibu
+(H9) Tanggal Lahir Ibu
+(H10) Kewarganegaraan
+
+(I) DATA ANAK
+(I1) 1. Nama
+(I2) 2. Jenis Kelamin
+(I3) 3. Tempat Dilahirkan
+(I4) 4. Tempat kelahiran
+(I5)  5. Hari dan tanggal lahir
+(I6)  6. Pukul
+(I7)  7. Jenis kelahiran
+(I8)  8. Kelahiran ke
+(I9)  9. Penolong kelahiran
+(I10)  10. Berat bayi
+(I11)  11. Panjang bayi
+
+(J) YANG LAHIR MATI
+(J1) 1. Lamanya dalam kandungan.
+(J2) 2. Jenis kelamin
+(J3) 3. Tanggal Lahir Mati
+(J4) 4. Jenis Kelahiran
+(J5) 5. Anak ke
+(J6) 6. Tempat dilahirkan
+(J7) 7. Penolong kelahiran
+(J8) 8. Sebab lahir mati
+(J9) 9. NIK Ayah Kandung
+(J10) 10. Kewarganegaraan
+(J11) 11. Nama Ibu Angkat
+(J12) 12. NIK Ibu Angkat
+(J13) 13. Nomor Paspor
+(J14) 14. Nama ayah Angkat
+(J15) 15. NIK Ayah Angkat
+(J16) 16. Nomor Paspor
+(J17) 17. Nama Pengadilan
+(J18) 18. Tanggal Penetapan Pengadilan
+(J19) 19. Nomor Penetapan Pengadilan Pengadilan
+(J20) 20. Nama lembaga penetapan Pengadilan
+(J21) 21. Tempat lembaga penetapan pengadilan
+
+(K) PENGAKUAN ANAK
+(K1) 1. Nomor Akta Kelahiran
+(K2) 2. Tanggal/Bulan/Tahun Penerbitan Akta Kelahiran
+(K3) 3. Dinas Kab/Kota yang menerbitan Akta Kelahiran
+(K4) 4. Tanggal/Bulan/Tahun Kelahiran Anak
+(K5) 5. Tanggal/Bulan/Tahun Perkawinan Agama
+(K6) 6. Nama Ibu Kandung
+(K7) 7. NIK Ibu Kandung
+(K8) 8. Kewarganegaraan Ibu Kandung
+(K9) 9. Nama Ayah Kandung
+(K10) 10. NIK Ayah Kandung
+(K11) 11. Kewarganegaraan Ayah Kandung 
+(K12) 12. Tanggal penetapan Pengadilan
+(K13) 13. Nomor Penetepan Pengadilan
+(K14) 14. Nama Lembaga Pengadilan
+
+(L) PENGESAHAN ANAK 
+(L1) 1. Nomor Akta Kelahiran
+(L2) 2. Tanggal/Bular/Tahun Penerbitan Akta Kelahiran
+(L3) 3. Dinas Kab/Kota yang menerbitan Akta Kelahiran
+(L4) 4. Tanggal/Bulan/Tahun Kelahiran Anak
+(L5) 5. Tanggal/Bulan/Tahun Perkawinan Agama
+(L6) 6. Nomor Tanggal Bulan/Tahun/Akta Perkawinan/ 
+(L7) Buku Nikah
+(L8) 7. Nama Ibu Kandung
+(L9) 8. NIK Ibu Kandung
+(L10) 9. Kewarganegaraan Ibu Kandung
+(L11) 10. Nama Ayah Kandung
+(L12) 11. NIK Ayah Kandung
+(L13) 12. Kewarganegaraan Ayah Kandung
+(L13) 13. Tanggal penetapan Pengadilan
+(L15) 14. Nomor Penetapan Pengadilan
+(L16) 15. Nama Lembaga Pengadilan
+
+(M) PERUBAHAN NAMA
+(M1) 1. Nama Lama
+(M2) 2. Nama Baru
+(M3) 3. Nomor Akta Kelahiran 
+(M4) 4. Nama Ayah/lbu/Wal (bagi yang di bawah umur)
+(M5) 5. NIK Nama Ayah/bu/Wali
+(M6) 6. Kewarganegaraan
+(M7) 7. Nomor Penetapan Pengadilan
+(M8) 8. Tanggal Penetpan Pengadilan
+(M9) 9. Nama lembaga Pengadilan
+
+(N) PERUBAHAN STATUS KEWARGANEGARAAN
+(N1) 1. Kewarganegaraan Baru
+(N2) 2. Nomor Akta Kelahiran
+(N3) 3. Nomor Akta Perkawinan
+(N4) 4. Nama Suami atau Istri
+(N5) 5. NIK Suami atau Istri
+(N6) 6. Nomor Paspor
+(N7) 7. Nomor Afidavit
+(N8) 8. Nomor Keputusan Presiden
+(N9) 9. Tanggal/Bulan/Tahun
+(N10) 10. Nomor Berita Acara Sumpah/Janji Setia
+(N11) 11. Nama Jabatan yang menerbitkan BAS/Janji Setia
+(N12) 12. Tanggal/Bulan/Tahun
+(N13) 13. Nomor Keputusan Menteri (Bidang Kewarganegaraan)
+(N14) 14. Tanggal/Bulan/Tahun
+
+(O) PERUBAHAN PERISTIWA PENTING LAINNYA
+(O1) 1. Nomor Akta Kelahiran
+(O2) 2. Jenis Kelamin Lama
+(O3) 3. Jenis Kelamin Baru
+(O4) 4. Nomor Penetapan Pengadilan
+(O5) 5. Tanggal Penetapan Pengadilan
+(O6) 6. Nama Lembaga Pengadilan
+(O7) 9. Yang menentukan
+(O8) 10. Tempat kelahiran
+
+(P) PERKAWINAN ATAU PEMBATALAN PERKAWINAN
+(P1) 1. NIK Ayah dari Suami
+(P2) 2. Nama Ayah dari Suami
+(P3) 3. NIK Ibu dari Suami 
+(P4) 4. Nama Ibu dari Suami
+(P5) 5. NIK Ayah dari Istri
+(P6) 6. Nama Ayah dari Istri
+(P7) 7. NIK ibu dari Istri 
+(P8) 8. Nama ibu dari Istri
+(P9) 9. Status Perkawinan Sebelum Kawin
+(P10) 10. Perkawinan yang Ke
+(P11) 11. Istri yang ke (bagi yang poligami)
+(P12) 12. Tanggal Pemberkatan Perkawinan
+(P13) 13. Tanggal Melapor
+(P14) 14. Jam Pelaporan
+(P15) 15. Agama
+(P16) 16. Kepercayaan
+(P17) 17. Nama Organisasi Kepercayaan
+(P18) 18. Nama Pengadilan
+(P19) 19. Nomor Penetapan Pengadilan
+(P20) 20. Tanggal Penetapan Pengadilan
+(P21) 21. Nama Pemuka Agama/ Kepercayaan
+(P22) 22. Nomor Surat Izin dan Perwakilan
+(P23) 23. Nomor Pasport
+(P24) 24. Perjanjian Perkawinan Dibuat oleh Notaris
+(P25) 25. Nomor Akta Notari
+(P26) 26. Tanggal Akta Notaris
+(P27) 27. Jumlah Anak (jika ada agar mengisi Formulir tambahan nama anak dan akta kelahiran anak)
+
+(Q) Bagi Pemohon Pembatalan Perkawinan Harap Mengisi Data di bawah ini:
+(Q1) 1. Tanggal Perkawinan
+(Q2) 2. Nomor Akta Perkawinan
+(Q3) 3. Tanggal Akta Perkawinan
+(Q4) 4. Nama Pengadilan
+(Q5) 5. Nomor Putusan Pengadilan
+(Q6) 6. Tanggal Putusan Pengadilan
+(Q7) 7. Tanggal Pelaporan Perkawinan di Luar Negeri
+
+(R) PERCERAIAN ATAU PEMBATALAN PERCERAIAN Yang mengajukan perceraian/pembatalan perceraian ***
+(R1) 1. Nomor akta perkawinan
+(R2) 2. Tanggal Akta Perkawinan
+(R3) 3. Tempat Pencatatan perkawinan
+(R4) 4. Nama Pengadilan
+(R5) 5. Tanggal Putusan Pengadilan
+(R6) 6. Nomor Putusan Pengadilan
+(R7) 7. Nomor Surat Keterangan Panitera Pengadilan
+(R8) 8. Tanggal surat Keterangan Panitera Pengadilan
+(R9) 9. Tanggal Melapor
+
+(S) Bagi Pemohon Pembatalan Perceraian Harap Mengisi Data di bawah ini:
+(S1) 1. Nomor Akta Perceraian
+(S2) 2. Tanggal Akta Perceraian 
+(S3) 3. Tanggal Pelaporan Perceraian dari luar Negeri
+
+(T) KEMATIAN
+(T1) 1. NIK
+(T2) 2. Nama Lengkap
+(T3) 3. Tanggal kematian
+(T4) 4. Pukul
+(T5) 5. Sebab Kematian
+(T6) 6. Tempat Kematian
+(T7) 7. Yang menerangkan
+
+(U) PENGANGKATAN ANAK 
+(U1) 1. Nama anak angkat
+(U2) 2. Nomor Akta Kelahiran
+(U3) 3. Tanggal/Bulan/Tahun Penerbitan Akta Kelahiran
+(U4) 4. Dinas Kab/Kota yang menerbitkan Akta Kelahiran
+(U5) 5. Nama ibu Kandung
+(U6) 6. NIK Ibu Kandung
+(U7) 7. Kewarganegaraan
+(U8) 8. Nama Ayah
+
+(V) PEMBETULAN AKTA
+(V1) 1. Nomor Akta yang akan dibetulkan/ditarik
+(V2) 2. Nama Ayah/lbu/Wall (yang di bawah umur)
+(V3)  3. NIK Ayah/lbu/Wal
+
+(W) PEMBATALAN AKTA
+(W1) 1. Akta yang dibatalkan
+(W2) 2. Nomor akta yang dibatalkan
+(W3) 3. Nomor Putusan Pengadilan
+(W4) 4. Tanggal Putusan Pengadilan
+(W5) 5. Nama Lembaga Pengadilan
+
+(X) PELAPORAN PENCATATAN SIPIL DARI LUAR WILAYAH NKRI
+(X1) 1. Jenis Peristiwa penting
+(X2) 2. Nomor Surat Keterangan Pelaporan Pencatatan Sipil dan Perwakilan RI
+(X3) 3. Tanggal Surat Keterangan Pelaporan PencatatanSipil dari Perwakilan RI
+(X4) 4. Kantor Perwakilan yang melakukan pencatatan 
+(X5) 5. Nomor Bukti Pencatatan Sipil dari Negara Setempat
+(X6) 6. Tanggal Penerbitan dari Negara Setempat
